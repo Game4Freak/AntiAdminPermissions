@@ -1,1 +1,1 @@
-# AdminSync
+# AntiAdminPermissions
